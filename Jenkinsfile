@@ -6,6 +6,11 @@ pipeline {
         echo 'Success'
       }
     }
+    stage('ffff') {
+      steps {
+        sh 'echo "Sivatharman"'
+      }
+    }
   }
   environment {
     var1 = '10'
