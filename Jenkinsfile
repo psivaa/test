@@ -17,3 +17,4 @@ pipeline {
     var2 = '20'
   }
 }
+
